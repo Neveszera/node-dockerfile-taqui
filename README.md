@@ -19,12 +19,6 @@ RM 99892
 <a href="https://www.linkedin.com/in/l%C3%ADvia-freitas-ferreira/">Linkedin</a>
 <a href="https://github.com/freitaslivia">Github</a>
 
-:small_blue_diamond:Rafael Mendonça
-Database, IOT
-RM 552422
-<a href="https://www.linkedin.com/in/rafael-henrique-de-mendon%C3%A7a-51263326b/">Linkedin</a>
-<a href="https://github.com/rhmendonca">Github</a>
-
 :small_blue_diamond:Renato Romeu
 DevOps, Mobile, QA, IOT
 RM 551325
