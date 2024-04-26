@@ -1,0 +1,11 @@
+{
+  "name": "dockerfile-taqui",
+  "version": "1.0.0",
+  "description": "CP Devops Aplicação NodeJS Dockerfile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Neves",
+  "license": "ISC"
+}
